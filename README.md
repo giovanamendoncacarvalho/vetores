@@ -22,6 +22,7 @@ Pede para que os alunos façam um programa que leia 7 nomes de pessoas e guarde-
 ## 4° Exercício (Vetores):
 
 É pedido que os estudantes façam um programa que leia dois vetores de 5 elementos cada (valores inteiros). Crie um terceiro vetor que contenha apenas os elementos que estão em ambos os vetores (interseção, sem repetição). 
+
 ---
 ## Exemplo:
 
